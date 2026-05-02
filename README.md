@@ -1,6 +1,6 @@
 # 📊 HR Attrition Analytics Dashboard (Excel)
 
-## 🧠 Business Problem
+## Business Problem
 
 Employee attrition is a critical challenge for organizations, leading to increased hiring costs, productivity loss, and knowledge gaps.
 This project aims to **analyze attrition patterns** and uncover key drivers behind employee turnover using data.
@@ -15,7 +15,7 @@ This project aims to **analyze attrition patterns** and uncover key drivers behi
 - [Dashboard](#dashboard)
 
 ----
-## 🎯 Project Objective
+##  Project Objective
 
 To design an interactive dashboard that:
 
@@ -25,7 +25,7 @@ To design an interactive dashboard that:
 
 ---
 
-## 📌 Key KPIs
+##  Key KPIs
 
 * **Total Employees:** 1470
 * **Attrition Count:** 237
@@ -35,7 +35,7 @@ To design an interactive dashboard that:
 
 ---
 
-## 📊 Dashboard Highlights
+##  Dashboard Highlights
 
 * **Attrition by Age Group**
   Reveals that younger employees show higher turnover trends
@@ -61,22 +61,22 @@ To design an interactive dashboard that:
   * Marital Status
 
 ---
-📷 Dashboard Preview
+ Dashboard Preview
 
 <img width="1860" height="738" alt="Screenshot 2026-05-02 155952" src="https://github.com/user-attachments/assets/e2bf7972-86ef-41a3-9388-b3e0687111e7" />
 
 
 ----
-## 🔍 Key Insights
+##  Key Insights
 
-* 📉 Higher attrition observed in **entry-level and junior roles**
-* 👥 Employees aged **20–30 show the highest turnover**
-* 🏢 Certain departments (e.g., Sales) contribute significantly to attrition
-* 💼 Job roles with lower income levels tend to have higher attrition rates
+*  Higher attrition observed in **entry-level and junior roles**
+*  Employees aged **20–30 show the highest turnover**
+*  Certain departments (e.g., Sales) contribute significantly to attrition
+*  Job roles with lower income levels tend to have higher attrition rates
 
 ---
 
-## 🛠️ Tools & Techniques
+##  Tools & Techniques
 
 * **Microsoft Excel**
 
@@ -91,7 +91,7 @@ To design an interactive dashboard that:
 
 ---
 
-## 🔄 Data Preparation
+##  Data Preparation
 
 * Cleaned raw HR dataset
 * Handled missing values using logical functions
@@ -100,7 +100,7 @@ To design an interactive dashboard that:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 * `HR_Analytics_Dashboard.xlsx` → Main dashboard file
 * `Dataset` → Raw/cleaned HR dataset
@@ -108,7 +108,7 @@ To design an interactive dashboard that:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 
 1. Download the Excel file
 2. Open in Microsoft Excel (recommended: Excel 2016+)
@@ -117,7 +117,7 @@ To design an interactive dashboard that:
 
 ---
 
-## 📈 Business Impact
+##  Business Impact
 
 This dashboard helps:
 
@@ -127,7 +127,7 @@ This dashboard helps:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Build predictive model for attrition (Machine Learning)
 * Integrate with **Power BI** for advanced visualization
