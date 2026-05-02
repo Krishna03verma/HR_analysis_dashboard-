@@ -1,4 +1,4 @@
-# 📊 HR Attrition Analytics Dashboard (Excel)
+# 📊 HR Attrition Analytics Dashboard
 
 ## Business Problem
 
